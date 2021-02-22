@@ -3,5 +3,5 @@ Anyway, I've learned that git is quite a powerful tool in web development,
 especially when it comes to collaboration. Will I be working in this field
 in the future? Maybe not. Will I learn some new skills? absolutely!
 
-This is me updating this repository the next day just to see how it works.
-Still part of a final git test, however, I am sure to do more!
+Just wanted to delete the last two lines to see what happens...
+But I think I am understading more of the Git workflow!
