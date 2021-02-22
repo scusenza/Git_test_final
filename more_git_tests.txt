@@ -2,3 +2,6 @@ This is a final test for git. I may do a few more after this, however...
 Anyway, I've learned that git is quite a powerful tool in web development,
 especially when it comes to collaboration. Will I be working in this field
 in the future? Maybe not. Will I learn some new skills? absolutely!
+
+This is me updating this repository the next day just to see how it works.
+Still part of a final git test, however, I am sure to do more!
